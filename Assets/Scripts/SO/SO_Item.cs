@@ -16,7 +16,7 @@ public class SO_Item : ScriptableObject
     public string itemName;
     public string description;
     public int maxStack;
-    public ItemType itemType; // Добавляем поле для типа предмета
+    public ItemType itemType;
 
     [Header("In Game Object")]
     public GameObject gamePrefab;
