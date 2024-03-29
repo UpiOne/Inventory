@@ -1,6 +1,3 @@
-# Inventory
- 
+# Invento
 
-
-https://github.com/UpiOne/Inventory/assets/122791618/6cab3875-76c2-4217-ae42-2365169608a6
-
+https://github.com/UpiOne/Inventory/assets/122791618/5d40624f-8a89-4e63-b465-003f38f28740
